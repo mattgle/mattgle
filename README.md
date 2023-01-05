@@ -10,7 +10,7 @@ In projects, I always like to organize the workflow and the priorities to find t
 
 - 📩: **matiasgrote@gmail.com**
 - 🐦: **[@matiasgrote](https://twitter.com/MatiasGrote)**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;: **[Matias Grote](https://www.linkedin.com/in/matias-grote/)**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/>&nbsp;: **[Matias Grote](https://www.linkedin.com/in/matias-grote/)**
 
 ---
 
