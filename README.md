@@ -1,4 +1,4 @@
-<h3 align="center">I'm a Mobile/Web Engineer based in Argentina working with React Native and React.js for the past 5 years</h3>
+<h3 align="center">I'm a Mobile/Web Engineer based in Argentina working with React Native and React.js since 2018</h3>
 
 ---
 
