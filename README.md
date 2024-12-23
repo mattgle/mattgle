@@ -1,10 +1,10 @@
-<h3 align="center">I'm a Mobile/Web Engineer based in Argentina working with React Native and React.js since 2018</h3>
+<h3 align="center">Mobile and Web Engineer | React Native & React.js Specialist | Based in Argentina</h3>
 
 ---
 
-I'm currently working on Web3 products since I really enjoy to be part of the new internet. I consider my self a very productive person, with a lot of initiative and very passionate about technology.
+I'm a Mobile and Web Engineer with expertise in React Native and React.js, working in the field since 2018. Currently, I'm focused on building Web3 products, driven by my passion for shaping the future of the internet.
 
-In projects, I always like to organize the workflow and the priorities to find the best way to achieve our goals as a team. I believe that organization mixed with good initiative and the correct leadership is the key for a successful product.
+I pride myself on being highly productive, proactive, and deeply passionate about technology. In every project, I prioritize organization and workflow optimization, ensuring that team goals are achieved efficiently and effectively. I firmly believe that combining structured planning, initiative, and strong leadership is the foundation of delivering successful, impactful products.
 
 **Contact:**
 
