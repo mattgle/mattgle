@@ -1,8 +1,8 @@
-<h3 align="center">Mobile and Web Engineer | React Native & React.js Specialist | Based in Argentina 🇦🇷</h3>
+<h3 align="center">Software Engineer | React Native & React.js Specialist | Based in Argentina 🇦🇷</h3>
 
 ---
 
-I'm a Mobile and Web Engineer with expertise in React Native and React.js, working in the field since 2018. Currently, I'm focused on building Web3 products, driven by my passion for shaping the future of the internet.
+I'm a Software Engineer with expertise in Typescript and specialized in React Native and React.js, working in the field since 2018. Currently, I'm focused on building Web3 products, driven by my passion for shaping the future of the internet.
 
 I pride myself on being highly productive, proactive, and deeply passionate about technology. In every project, I prioritize organization and workflow optimization, ensuring that team goals are achieved efficiently and effectively. I firmly believe that combining structured planning, initiative, and strong leadership is the foundation of delivering successful, impactful products.
 
